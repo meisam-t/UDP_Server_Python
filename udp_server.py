@@ -7,7 +7,7 @@ host = "192.168.100.113"
 
 port = 55555
 buf = 1024
-data= b"Hello"
+data= b"Anything"
 addr = (host, port)
 num =1
 arr1 = [1, 2, 3]
